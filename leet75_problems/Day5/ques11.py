@@ -31,7 +31,7 @@ Steps:
 1. This can be done using two pointers. Initializing left and right variables with 0 and sum of array respectively.
 2. Iterating over the nums array, decreasing the value of right by each element, and check the equality of left 
 and right.
-3. If both becomes same, then return that index, else, increase the value of left by num.
+3. If both becomes same, then return that index, else, increase the value of left by each element.
 4. If left and right are not equal in any of the iteration, return -1 
 '''
 
